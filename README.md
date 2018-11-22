@@ -12,12 +12,12 @@ The reasons for developing:
 
 ## Roadmap
 
-[] Create list of supported archivers;
-[] Create UseCase diagram for selected archivers abilities and user needs;
-[] Create UI moshup;
-[] Create ncurses stub UI prototype;
-[] Create bind interfaces for archive programs interaction;
-[] Create unit tests for interaction logic module;
-[] Create integration tests for interaction module;
-[] Create controllers and bind logic with UI;
-[] Release 1.0v.
+- [ ] Create list of supported archivers;
+- [ ] Create UseCase diagram for selected archivers abilities and user needs;
+- [ ] Create UI moshup;
+- [ ] Create ncurses stub UI prototype;
+- [ ] Create bind interfaces for archive programs interaction;
+- [ ] Create unit tests for interaction logic module;
+- [ ] Create integration tests for interaction module;
+- [ ] Create controllers and bind logic with UI;
+- [ ] Release 1.0v.
