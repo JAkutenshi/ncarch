@@ -21,3 +21,14 @@ The reasons for developing:
 - [ ] Create integration tests for interaction module;
 - [ ] Create controllers and bind logic with UI;
 - [ ] Release 1.0v.
+
+## List of supported archive types
+
+- [ ] *.7zip;
+- [ ] *.bz, *.bz2;
+- [ ] *.gz;
+- [ ] *.rar
+- [ ] *.tar
+- [ ] *.tar.bz2, *.tar.bz *.tbz2, *.tbz, *.tb2;
+- [ ] *.tar.gz, *.tgz;
+- [ ] *.zip.
